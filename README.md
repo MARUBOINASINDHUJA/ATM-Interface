@@ -1,10 +1,12 @@
 # ATM-Interface
+## COMPANY:
+OctaNet
 ## NAME:
-     SINDHUJA MARUBOINA
+SINDHUJA MARUBOINA
 ## DOMINE: 
-      PYTHON
+PYTHON
 ## BATCH DURATION:
-     May 2024 -August 2024
+May 2024 -August 2024
   
 ## Description
 A simple yet effective console-based ATM simulation developed as part of the Octanet Internship/Training Program. This project aims to mimic basic ATM functionalities while helping learners strengthen their foundational programming skills through real-world use cases.
