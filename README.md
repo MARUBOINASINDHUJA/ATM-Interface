@@ -6,8 +6,8 @@
 ## BATCH DURATION:
      May 2024 -August 2024
   
-  ## Description
-    A simple yet effective console-based ATM simulation developed as part of the Octanet Internship/Training Program. This project aims to mimic basic ATM functionalities while helping learners strengthen their foundational programming skills through real-world use cases.
+## Description
+A simple yet effective console-based ATM simulation developed as part of the Octanet Internship/Training Program. This project aims to mimic basic ATM functionalities while helping learners strengthen their foundational programming skills through real-world use cases.
 
 ## Project Objective
 This project is designed to help beginners understand the core concepts of programming by building an interactive command-line ATM system. It provides hands-on experience in logic development, control flow, user input handling, and simple data storage mechanisms.
