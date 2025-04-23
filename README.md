@@ -33,7 +33,9 @@ Log out securely and end your session without data loss.
 
 ## Tech Stack
 Language Used:  Python
+
 Development Environment: Visual Studio Code /IDLE
+
 Version Control: Git & GitHub
 
 ## 0utput
