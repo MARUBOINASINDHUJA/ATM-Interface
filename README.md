@@ -29,6 +29,7 @@ Development Environment: Visual Studio Code /IDLE
 Version Control: Git & GitHub
 
 ## 0utput
+![image alt](https://github.com/MARUBOINASINDHUJA/ATM-Interface/blob/871042eb3e61843a12111a017fe11a07d13acd55/output%20of%20atm%20interface.png)
 
 
 
